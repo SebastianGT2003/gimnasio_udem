@@ -1,0 +1,64 @@
+.img_fondo{
+    background: url('../imagenes/Cerrar_sesion.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:170vh;
+
+
+}
+
+.backgroudform_cerrar{
+    width: 40%;
+    height: 100%;
+    padding: 2vh;
+    border-radius: 15px;
+    opacity: 0.9;
+}
+.centerform_cerrar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    padding-bottom: 2%;
+ 
+    
+}
+.boton_cerrar {
+    display: flex;
+    border-top-left-radius: 5px ;
+    border-bottom-left-radius: 50px ;
+    padding:0%;
+    font-size: 100%;
+    margin-right: 0;
+    color: white;
+    font-weight: bolder;
+    margin-top: 2%;
+    
+    
+    
+    
+}
+.botonderechacerrar{
+    display: grid;
+    padding-top: 1%;
+    
+}
+.botonizquierdacerrar{
+    justify-content:flex-start;
+    display: flex;
+}
+.parrafoc{
+    box-sizing: border-box;
+    padding-top: 4%;
+    margin-right: 10%;
+    font-size:xx-large;
+    text-align: center;
+    color: black;
+}
+.Titulor{
+    box-sizing: border-box;
+    text-align: center;
+    font-size:large;
+
+}
